@@ -27,4 +27,8 @@ As a side project I made some changes that bothered me as a kid in the original 
     - Porygon evolves into Porygon2 at Level 32.
     - Clamperl evolves into Huntail by using a Water Stone.
     - Clamperl evolves into Gorebyss by using a Moon Stone.
+
+## Pokémon Encounter 
+
+- Feebas encounter has been changed to be available at each Tile on Route 119 with a 50% chance.
     
