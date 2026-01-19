@@ -28,7 +28,8 @@ As a side project I made some changes that bothered me as a kid in the original 
     - Clamperl evolves into Huntail by using a Water Stone.
     - Clamperl evolves into Gorebyss by using a Moon Stone.
 
-## Pokémon Encounter 
+## Pokémon Encounter for already implemented Pokemon
 
 - Feebas encounter has been changed to be available at each Tile on Route 119 with a 50% chance.
+- Bagon can be encountered in all areas of Meteor Falls.
     
