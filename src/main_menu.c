@@ -202,8 +202,6 @@ static void MainMenu_FormatSavegameTime(void);
 static void MainMenu_FormatSavegameBadges(void);
 static void NewGameBirchSpeech_CreateDialogueWindowBorder(u8, u8, u8, u8, u8, u8);
 
-// Birch intro assets removed: graphics and palettes excluded to save space.
-
 #define MENU_LEFT 2
 #define MENU_TOP_WIN0 1
 #define MENU_TOP_WIN1 5
@@ -378,11 +376,8 @@ static const struct BgTemplate sMainMenuBgTemplates[] = {
     }
 };
 
-/* Birch background template removed */
 
 static const struct ScrollArrowsTemplate sScrollArrowsTemplate_MainMenu = {2, 0x78, 8, 3, 0x78, 0x98, 3, 4, 1, 1, 0};
-
-/* Player shrink affine anim removed (unused after intro removal) */
 
 static const struct MenuAction sMenuActions_Gender[] = {
     {gText_BirchBoy, {NULL}},
@@ -1184,7 +1179,6 @@ static void HighlightSelectedMainMenuItem(u8 menuType, u8 selectedMenuItem, s16 
     }
 }
 
-/* Birch intro implementation removed. Gender/naming helpers remain below. */
 static void NewGameBirchSpeech_ShowGenderMenu(void)
 {
     DrawMainMenuWindowBorder(&sNewGameBirchSpeechTextWindows[1], 0xF3);
