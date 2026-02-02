@@ -32,4 +32,8 @@ As a side project I made some changes that bothered me as a kid in the original 
 
 - Feebas encounter has been changed to be available at each Tile on Route 119 with a 50% chance.
 - Bagon can be encountered in all areas of Meteor Falls.
+
+## Quality of Life Changes
+
+- When starting an New Game, the Birch Sequence is cut and only name and gender are asked for.
     
